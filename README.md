@@ -4,7 +4,7 @@ The dataset is from the UCI archive, with total of 23 features and 1884 individi
 
 The used packages and the versions are listed below.
 
-Python version 3.10.5 \n
+Python version 3.10.5 {'\n'}
 numpy version 1.22.4
 
 matplotlib version 3.5.2
