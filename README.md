@@ -1,6 +1,7 @@
 This project is classification problem, predict the Cannabis usage.
 
-The dataset is from the UCI archive, with total of 23 features and 1884 individiual participant data.
+The dataset is from the UCI archive, with total of 23 features and 1884 individiual participant data. <br>
+https://archive.ics.uci.edu/ml/datasets/Drug+consumption+%28quantified%29
 
 The used packages and the versions are listed below.
 
